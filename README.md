@@ -1,3 +1,3 @@
 # Kokoa Clone 2022 Update
 
-First time!
+This Repository is my first exercise. It is a clone project with Nomad Coder.
