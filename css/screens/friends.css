@@ -8,14 +8,14 @@
   margin-top: -10px;
 }
 #friends-display-link i {
-  color: rgba(0, 0, 0, 0.3);
+  color: var(--basic-gray);
 }
 .friends-screen {
   padding: 0px var(--horizontal-space);
 }
 
 .friends-screen_channel {
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: var(--main-border);
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -23,5 +23,5 @@
   margin-bottom: 30px;
   display: flex;
   justify-content: space-between;
-  color: rgba(0, 0, 0, 0.5);
+  color: var(--basic-gray);
 }
